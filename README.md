@@ -1,4 +1,4 @@
-# BOX-OS
+# SEA-OS
 This is a site for school, rn it has a built in music player and some videos and stuff.
 This is a single html, web based, vibecoded OS.
 I plan on adding games soon and stuff
